@@ -1,3 +1,3 @@
 # LakmaSanjula-97.github.io
 
-https://lakmasanjula-97.github.io/#Home
+https://lakmasanjula.github.io/
